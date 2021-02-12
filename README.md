@@ -1,20 +1,15 @@
-### Hi there 👋
+### Hi I'm Dawid 👋
 
-<!--
-**dawidkreft/dawidkreft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ 💬  You can find me on: 
+-  [<img align="left" alt="Dawid Kreft | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] [linkedin]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'am Java Developer and I'am responsible for the back-end written in
+Java 11 and Spring boot 2, as well as unit and integration tests.
+I also had the opportunity to gain leadership experience.
 
+I invite you see my projects  🔭
 
 
 <img align="left" alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=dawidkreft&count_private=true" />
+[linkedin]: https://www.linkedin.com/in/dawid-k-a58047169/
