@@ -19,6 +19,6 @@ I also had the opportunity to gain leadership experience.
 
 I invite you too see my projects  🔭
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dawidkreft&show_icons=true&theme=gotham)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dawidkreft&&show_icons=true&theme=radical)
 
 [linkedin]: https://www.linkedin.com/in/dawid-k-a58047169/
