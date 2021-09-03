@@ -7,7 +7,9 @@
 I'am Java Developer and I'am responsible for the back-end written in
 Java 11 and Spring boot 2, as well as unit and integration tests.
 I also had the opportunity to gain leadership experience.
+
 ##
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
