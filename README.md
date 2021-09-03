@@ -7,7 +7,7 @@
 I'am Java Developer and I'am responsible for the back-end written in
 Java 11 and Spring boot 2, as well as unit and integration tests.
 I also had the opportunity to gain leadership experience.
-
+##
 ### 🛠 &nbsp;Tech Stack
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -15,10 +15,12 @@ I also had the opportunity to gain leadership experience.
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-I invite you too see my projects  🔭
 
 ## Github Stats 📈 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dawidkreft&&show_icons=true&theme=vue)
+
+##
+I invite you too see my projects  🔭
 
 [linkedin]: https://www.linkedin.com/in/dawid-k-a58047169/
