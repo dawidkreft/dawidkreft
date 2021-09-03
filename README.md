@@ -1,5 +1,5 @@
 ### Hi I'm Dawid 👋
-
+##
 
  💬  You can find me on: 
 -  [<img align="left" alt="helloroman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
