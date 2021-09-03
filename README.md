@@ -23,6 +23,7 @@ I also had the opportunity to gain leadership experience.
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dawidkreft&&show_icons=true&theme=vue)
 
 ##
-I invite you too see my projects  🔭
+
+### I invite you too see my projects  🔭
 
 [linkedin]: https://www.linkedin.com/in/dawid-k-a58047169/
