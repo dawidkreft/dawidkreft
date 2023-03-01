@@ -5,7 +5,7 @@
 -  [<img align="left" alt="helloroman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 <br/>
 I'am Java Developer and I'am responsible for the back-end written in
-Java 11,17 or Kotlin and Spring boot 2, as well as unit and integration tests.
+Java 11, 17 or Kotlin and Spring boot 2, as well as unit and integration tests.
 I also had the opportunity to gain leadership experience.
 
 ##
